@@ -1,0 +1,70 @@
+*{
+    background-color: rgb(115, 191, 184);  
+}
+
+header{
+    display: flex;
+    justify-content: center;
+}
+
+
+nav{
+    padding-bottom: 15px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.row{
+    width: 90%;
+}
+
+.hobbies{
+    padding-top: 30px;
+}
+
+#boxCarrusel{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    padding-bottom: 50px;
+}
+
+.carousel-item img {
+    max-width: 700px;
+    height: auto;
+}
+
+
+.carousel-caption,  .carousel-caption p, .carousel-caption h5{
+    background-color: transparent;
+    
+    /* Sombreado: */
+    text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;
+    color: white;
+    /* Fin sombreado */
+    
+}
+
+.carousel-indicators{
+    background-color: transparent;
+}
+
+.carousel-control-prev-icon {
+    background-color: grey; /* Cambiar aquí el color deseado */
+}
+
+.carousel-control-next-icon {
+    background-color: grey; /* Cambiar aquí el color deseado */
+}
+  
+  /* rgba(122, 122, 122, 0.5); */
+  
+  
+  
