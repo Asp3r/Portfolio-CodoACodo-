@@ -237,6 +237,8 @@ cd .. : vuelve a un directorio atras
 
 commits tests:
 
-el primer commit
+-primer version del txt,  primer commit
 
+
+-segunda version del txt apuntes, a ver si se actualiza
 ----------------------------------------
