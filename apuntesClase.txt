@@ -243,3 +243,8 @@ commits tests:
 -segunda version del txt apuntes, a ver si se actualiza
 ----------------------------------------
 fdjkbgf
+------------------------------
+MI ARCHIVO PRINCIPAL DEBE IT CON EL NOMBRE index
+
+
+git pull //trae todos los cambios que una persona hizo en un projecto que clonaste
